@@ -1,0 +1,43 @@
+.dc-chart g.row text {
+    fill: black;
+    font-size:0.8em;
+}
+
+.dc-chart .pie-slice {
+    fill:black;
+}
+
+.x-axis-label{
+    font-size:0.8em;
+}
+
+.dc-chart g.selected path {
+    stroke-width:1px !important;
+}
+
+#hdx-3W-where {
+    height:470px;
+    width:100%;
+}
+
+.hdx-3w-viz{
+    width:100%;
+}
+
+#header{
+    padding-bottom:20px;
+    border-bottom-color: #dddddd;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    margin-bottom:20px;
+}
+
+.container{
+    padding-bottom:20px;
+    min-width:500px;
+}
+
+#reset{
+    background-color:#03a9f4;
+    border-color:#03a9f4;
+}
