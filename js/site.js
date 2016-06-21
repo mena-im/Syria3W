@@ -47,7 +47,7 @@ function generate3WComponent(config,data,geom){
             .data(function(group) {
                 return group.top(20);
             })
-            .labelOffsetY(13)
+            .labelOffsetY(19)
             .colors(config.colors)
             .colorDomain([0,7])
             .colorAccessor(function(d, i){return 3;})
@@ -60,7 +60,7 @@ function generate3WComponent(config,data,geom){
             .data(function(group) {
                 return group.top(15);
             })
-            .labelOffsetY(13)
+            .labelOffsetY(30)
             .colors(config.colors)
             .colorDomain([0,7])
             .colorAccessor(function(d, i){return 3;})
@@ -73,7 +73,7 @@ function generate3WComponent(config,data,geom){
             .data(function(group) {
                 return group.top(15);
             })
-            .labelOffsetY(13)
+            .labelOffsetY(22)
             .colors(config.colors)
             .colorDomain([0,7])
             .colorAccessor(function(d, i){return 3;})
