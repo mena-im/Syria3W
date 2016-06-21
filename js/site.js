@@ -10,7 +10,7 @@ var config = {
     statusFieldName:"status",
     geo:"data/syria_adm2.geojson",
     joinAttribute:"PCODE",
-    colors:['#81d4fa','#4fc3f7','#29b6f6','#03a9f4','#039be5','#0288d1','#0277bd','#01579b']
+    colors:['#ee8b7a','#ec7763','#e9634d','#e64f36','#e64f36','#0288d1','#e33b1f','#b92e17']
 };
 
 //function to generate the 3W component
@@ -20,7 +20,7 @@ var config = {
 function generate3WComponent(config,data,geom){
 
     $('#title').html(config.title);
-    
+
 
     var whoChart = dc.rowChart('#hdx-3W-who');
     var whatChart = dc.rowChart('#hdx-3W-what');
@@ -90,10 +90,10 @@ function generate3WComponent(config,data,geom){
             .zoom(7)
             .geojson(geom)
             .colors(['#CCCCCC', config.colors[3]])
-            .colorDomain([0, 1])
+            .colorDomain([0, 4])
             .colorAccessor(function (d) {
                 if(d>0){
-                    return 1;
+                    return 4;
                 } else {
                     return 0;
                 }
@@ -101,6 +101,7 @@ function generate3WComponent(config,data,geom){
             .featureKeyAccessor(function(feature){
                 return feature.properties[(config.joinAttribute)];
             });
+
 
         dc.dataTable("#data-table")
                 .dimension(whatDimension)
