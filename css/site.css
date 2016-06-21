@@ -1,6 +1,8 @@
 .dc-chart g.row text {
-    fill: black;
-    font-size:0.8em;
+    fill: snow;
+    font-size:1.3em;
+    stroke-width: .4;
+    stroke: crimson;
 }
 
 .dc-chart .pie-slice {
@@ -40,4 +42,23 @@
 #reset{
     background-color:#e64f36;
     border-color:#e64f36;
+}
+
+.dc-table-label {
+   background-color:#cccccc;
+}
+
+.filter-count {
+   font-size:2em;
+   margin-right:10px;
+}
+
+.grey  {
+   color:#7F7F7F;
+}
+
+
+.dc-table-column {
+   font-size:0.75em;
+   color:#7F7F7F;
 }

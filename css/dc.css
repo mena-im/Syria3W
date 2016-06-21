@@ -215,7 +215,8 @@ div.dc-chart {
 
 .dc-chart g.row text {
     fill: white;
-    font-size: 12px;
+    font-size: 1.2em;
+    stroke-width: 1;
     cursor: pointer;
 }
 
