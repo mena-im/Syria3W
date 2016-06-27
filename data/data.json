@@ -507,7 +507,7 @@
    "adm_code": "SY0401",
    "municipality": "Homs",
    "activity": "WASH/WATSAN",
-   "organisation": "BRC, training IM",
+   "organisation": "British Red Cross",
    "status": "Ongoing",
    "item": "Hygiene kits",
    "quantity": 181
@@ -795,7 +795,7 @@
    "adm_code": "SY0301",
    "municipality": "Rural Damascus",
    "activity": "Health",
-   "organisation": "Swedish RC",
+   "organisation": "Swedish Red Cross",
    "status": "Completed",
    "item": "Mobile Health Units (specify in comments)",
    "quantity": 3
@@ -804,7 +804,7 @@
    "adm_code": "SY0100",
    "municipality": "Damascus",
    "activity": "Health",
-   "organisation": "Swedish RC",
+   "organisation": "Swedish Red Cross",
    "status": "Completed",
    "item": "Mobile Health Units (specify in comments)",
    "quantity": 1
@@ -813,7 +813,7 @@
    "adm_code": "SY0401",
    "municipality": "Homs",
    "activity": "Health",
-   "organisation": "Swedish RC",
+   "organisation": "Swedish Red Cross",
    "status": "Completed",
    "item": "Mobile Health Units (specify in comments)",
    "quantity": 1
@@ -822,7 +822,7 @@
    "adm_code": "SY0902",
    "municipality": "Abu Kamal",
    "activity": "Health",
-   "organisation": "Swedish RC",
+   "organisation": "Swedish Red Cross",
    "status": "Completed",
    "item": "Mobile Health Units (specify in comments)",
    "quantity": 1
@@ -831,7 +831,7 @@
    "adm_code": "SY1400",
    "municipality": "Quneitra",
    "activity": "Health",
-   "organisation": "Swedish RC",
+   "organisation": "Swedish Red Cross",
    "status": "Completed",
    "item": "Mobile Health Units (specify in comments)",
    "quantity": 1
@@ -840,7 +840,7 @@
    "adm_code": "SY1000",
    "municipality": "Tartous",
    "activity": "Health",
-   "organisation": "Swedish RC",
+   "organisation": "Swedish Red Cross",
    "status": "Completed",
    "item": "Mobile Health Units (specify in comments)",
    "quantity": 1
@@ -849,7 +849,7 @@
    "adm_code": "SY0802",
    "municipality": "Quamishli",
    "activity": "Health",
-   "organisation": "Swedish RC",
+   "organisation": "Swedish Red Cross",
    "status": "Completed",
    "item": "Primary Health/Clinics",
    "quantity": 1
@@ -858,7 +858,7 @@
    "adm_code": "SY0800",
    "municipality": "Al-Hasakeh",
    "activity": "Health",
-   "organisation": "Swedish RC",
+   "organisation": "Swedish Red Cross",
    "status": "Completed",
    "item": "Primary Health/Clinics",
    "quantity": 1
@@ -867,7 +867,7 @@
    "adm_code": "SY0304",
    "municipality": "At Tall",
    "activity": "Health",
-   "organisation": "Swedish RC",
+   "organisation": "Swedish Red Cross",
    "status": "Completed",
    "item": "Primary Health/Clinics",
    "quantity": 1
@@ -876,7 +876,7 @@
    "adm_code": "SY0301",
    "municipality": "Rural Damascus",
    "activity": "Health",
-   "organisation": "Swedish RC",
+   "organisation": "Swedish Red Cross",
    "status": "Completed",
    "item": "Primary Health/Clinics",
    "quantity": 1
@@ -885,7 +885,7 @@
    "adm_code": "SY0100",
    "municipality": "Damascus",
    "activity": "Health",
-   "organisation": "Swedish RC",
+   "organisation": "Swedish Red Cross",
    "status": "Completed",
    "item": "Primary Health/Clinics",
    "quantity": 1
@@ -894,7 +894,7 @@
    "adm_code": "SY0100",
    "municipality": "Damascus",
    "activity": "Health",
-   "organisation": "Swedish RC",
+   "organisation": "Swedish Red Cross",
    "status": "Completed",
    "item": "Primary Health/Clinics",
    "quantity": 1
@@ -903,7 +903,7 @@
    "adm_code": "SY0401",
    "municipality": "Homs",
    "activity": "Health",
-   "organisation": "Swedish RC",
+   "organisation": "Swedish Red Cross",
    "status": "Completed",
    "item": "Primary Health/Clinics",
    "quantity": 1
@@ -912,7 +912,7 @@
    "adm_code": "SY0405",
    "municipality": "Tadmor",
    "activity": "Health",
-   "organisation": "Swedish RC",
+   "organisation": "Swedish Red Cross",
    "status": "Completed",
    "item": "Primary Health/Clinics",
    "quantity": 1
@@ -921,7 +921,7 @@
    "adm_code": "SY0901",
    "municipality": "Deir-ez-Zor",
    "activity": "Health",
-   "organisation": "Swedish RC",
+   "organisation": "Swedish Red Cross",
    "status": "Completed",
    "item": "Primary Health/Clinics",
    "quantity": 1
@@ -930,7 +930,7 @@
    "adm_code": "SY0902",
    "municipality": "Abu Kamal",
    "activity": "Health",
-   "organisation": "Swedish RC",
+   "organisation": "Swedish Red Cross",
    "status": "Completed",
    "item": "Primary Health/Clinics",
    "quantity": 1
@@ -939,7 +939,7 @@
    "adm_code": "SY0404",
    "municipality": "Ar Rastan",
    "activity": "Health",
-   "organisation": "Swedish RC",
+   "organisation": "Swedish Red Cross",
    "status": "Completed",
    "item": "Primary Health/Clinics",
    "quantity": 1
@@ -948,7 +948,7 @@
    "adm_code": "SY0404",
    "municipality": "Ar Rastan",
    "activity": "Health",
-   "organisation": "Swedish RC",
+   "organisation": "Swedish Red Cross",
    "status": "Completed",
    "item": "Primary Health/Clinics",
    "quantity": 1
@@ -957,7 +957,7 @@
    "adm_code": "SY0902",
    "municipality": "Abu Kamal",
    "activity": "Health",
-   "organisation": "ECHO/DRC",
+   "organisation": "ECHO",
    "status": "Completed",
    "item": "Primary Health/Health Points",
    "quantity": 1
@@ -966,7 +966,7 @@
    "adm_code": "SY0302",
    "municipality": "Duma",
    "activity": "Health",
-   "organisation": "ECHO/DRC",
+   "organisation": "ECHO",
    "status": "Completed",
    "item": "Primary Health/Health Points",
    "quantity": 1
@@ -975,7 +975,7 @@
    "adm_code": "SY0302",
    "municipality": "Duma",
    "activity": "Health",
-   "organisation": "ECHO/DRC",
+   "organisation": "ECHO",
    "status": "Completed",
    "item": "Primary Health/Health Points",
    "quantity": 1
@@ -984,7 +984,7 @@
    "adm_code": "SY0301",
    "municipality": "Rural Damascus",
    "activity": "Health",
-   "organisation": "ECHO/DRC",
+   "organisation": "ECHO",
    "status": "Completed",
    "item": "Primary Health/Health Points",
    "quantity": 1
