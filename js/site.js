@@ -5,7 +5,7 @@ var config = {
     description:"<p>Click the graphs or map to interact.<br />Last Updated: 20 June, 2016 - Contact: <a href='mailto:rydelafosse@redcross.org.uk' target='_blank'>Ryan Delafosse</a></p>",
     data:"data/data.json",
     whoFieldName:"organisation",
-    whatFieldName:"activity",
+    whatFieldName:"sector",
     whereFieldName:"adm_code",
     statusFieldName:"status",
     geo:"data/syria_adm2.geojson",
@@ -47,7 +47,7 @@ function generate3WComponent(config,data,geom){
             .data(function(group) {
                 return group.top(20);
             })
-            .labelOffsetY(19)
+            .labelOffsetY(16)
             .colors(config.colors)
             .colorDomain([0,7])
             .colorAccessor(function(d, i){return 3;})
@@ -60,7 +60,7 @@ function generate3WComponent(config,data,geom){
             .data(function(group) {
                 return group.top(15);
             })
-            .labelOffsetY(30)
+            .labelOffsetY(23)
             .colors(config.colors)
             .colorDomain([0,7])
             .colorAccessor(function(d, i){return 3;})
@@ -73,7 +73,7 @@ function generate3WComponent(config,data,geom){
             .data(function(group) {
                 return group.top(15);
             })
-            .labelOffsetY(22)
+            .labelOffsetY(29)
             .colors(config.colors)
             .colorDomain([0,7])
             .colorAccessor(function(d, i){return 3;})
@@ -114,6 +114,9 @@ function generate3WComponent(config,data,geom){
                        return d.municipality;
                     },
                     function(d){
+                       return d.sector;
+                    },
+                    function(d){
                        return d.activity;
                     },
                     function(d){
@@ -123,7 +126,10 @@ function generate3WComponent(config,data,geom){
                        return d.status;
                     },
                     function(d){
-                       return d.item;
+                       return d.enddate;
+                    },
+                    function(d){
+                       return d.moreinfo;
                     },
                     function(d){
                        return d.quantity;
